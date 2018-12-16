@@ -1,0 +1,40 @@
+body {
+	background-color: #D0B194;
+	color: #132F34;
+	font-family: 'lora', 'sans-serif';
+}
+
+p {
+	margin-top: 70px;
+	text-align: center;
+}
+
+#LOGO{
+	width: 200px;
+ }
+
+#Accroche {
+
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+h1 { font-family: 'Montserrat','sans-serif';
+	 color:#132F34;
+	 font-size: 25px;
+	 text-align: center;
+}
+
+h2 {font-family: 'Montserrat','sans-serif';
+	font-size: 13px; 
+	color:#132F34;
+	text-align: center;}
+
+h3 {font-family: 'Montserrat','sans-serif';
+	font-size: 10px; 
+	color:#132F34;
+	text-align: center;}
+
+.navbar-brand {
+	font-size: 12px;
+
+}
